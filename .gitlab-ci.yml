@@ -2,10 +2,6 @@ stages:
   - build
   - test
 
-cache:
-  paths:
-    - /repository
-  key: "$CI_JOB_NAME"
 
 build_job:
   stage: build
