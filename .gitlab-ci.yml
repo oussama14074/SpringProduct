@@ -12,7 +12,8 @@ cache:
 
 
 variables :
-PLAYWD: ip172-18-0-44-c6ivrbfnjsv000aqhp80
+
+ DEPLOY_SITE: "ip172-18-0-44-c6ivrbfnjsv000aqhp80"
 
 
 build_job:
