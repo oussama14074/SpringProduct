@@ -3,6 +3,7 @@ stages:
   - test
   - quality
   - package
+  - deploy_staging_job
 
 cache:
   paths:
