@@ -11,7 +11,7 @@ cache:
   key: "$CI_JOB_NAME"
 
 variables
-PLAYWD: ip172-18-0-44-c6ivrbfnjsv000aqhp80
+PLAYWD: ip172-18-0-44-c6ivrbfnjsv000aqhp80@direct.labs.play-with-docker.com
 
 
 build_job:
