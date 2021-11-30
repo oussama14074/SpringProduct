@@ -10,7 +10,8 @@ cache:
     - .m2/repository
   key: "$CI_JOB_NAME"
 
-variables
+
+variables :
 PLAYWD: ip172-18-0-44-c6ivrbfnjsv000aqhp80
 
 
